@@ -1,0 +1,11 @@
+[package]
+
+name = "rays"
+version = "0.0.1"
+authors = [ "Fedor!" ]
+
+[dependencies]
+rustc-serialize = "0.3"
+nalgebra = "0.4.0"
+image = "*"
+rand = "*"
